@@ -2,7 +2,7 @@
 
 int main()
 {double a;
- scanf("%lf",a);
+ scanf("%lf",&a);
  a=a*100;
   double result=round(a)/100;
  
