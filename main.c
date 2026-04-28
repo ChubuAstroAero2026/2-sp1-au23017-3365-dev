@@ -3,10 +3,7 @@
 int main()
 {double a;
  scanf("%lf",&a);
- a=a*100;
-  double result=round(a)/100;
- 
- printf("%.3lf",result);
+ printf("%.3lf",a);
  
   //ここにコードを書く
 
