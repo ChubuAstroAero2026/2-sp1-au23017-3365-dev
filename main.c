@@ -3,7 +3,7 @@
 int main()
 {double a;
  scanf("%lf",&a);
- printf("%.3lf/n",a);
+ printf("%.3lf",a);
  
   //ここにコードを書く
 
